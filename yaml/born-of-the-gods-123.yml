@@ -1,0 +1,116 @@
+---
+object: card
+id: f022c0c3-6331-47be-b07f-9768930afd3a
+oracle_id: ae15a96d-ce88-4cb9-a353-439387ca3d02
+multiverse_ids:
+- 378495
+mtgo_id: 51735
+mtgo_foil_id: 51736
+tcgplayer_id: 78967
+cardmarket_id: 265850
+name: Hero of Leina Tower
+lang: en
+released_at: '2014-02-07'
+uri: https://api.scryfall.com/cards/f022c0c3-6331-47be-b07f-9768930afd3a
+scryfall_uri: https://scryfall.com/card/bng/123/hero-of-leina-tower?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/0/f022c0c3-6331-47be-b07f-9768930afd3a.jpg?1593092480
+  normal: https://cards.scryfall.io/normal/front/f/0/f022c0c3-6331-47be-b07f-9768930afd3a.jpg?1593092480
+  large: https://cards.scryfall.io/large/front/f/0/f022c0c3-6331-47be-b07f-9768930afd3a.jpg?1593092480
+  png: https://cards.scryfall.io/png/front/f/0/f022c0c3-6331-47be-b07f-9768930afd3a.png?1593092480
+  art_crop: https://cards.scryfall.io/art_crop/front/f/0/f022c0c3-6331-47be-b07f-9768930afd3a.jpg?1593092480
+  border_crop: https://cards.scryfall.io/border_crop/front/f/0/f022c0c3-6331-47be-b07f-9768930afd3a.jpg?1593092480
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Creature — Human Warrior
+oracle_text: Heroic — Whenever you cast a spell that targets Hero of Leina Tower,
+  you may pay {X}. If you do, put X +1/+1 counters on Hero of Leina Tower.
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Heroic
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 50a80fe4-a757-408f-ad23-52c5cc5f45cc
+set: bng
+set_name: Born of the Gods
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/50a80fe4-a757-408f-ad23-52c5cc5f45cc
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abng&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bng?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f022c0c3-6331-47be-b07f-9768930afd3a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aae15a96d-ce88-4cb9-a353-439387ca3d02&unique=prints
+collector_number: '123'
+digital: false
+rarity: rare
+flavor_text: '"You cannot achieve greatness if its seed has not already been planted
+  in your heart."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Aaron Miller
+artist_ids:
+- fc021f3d-773a-4706-bbe7-f602324f511f
+illustration_id: 6280e5a4-6960-40f2-a9b4-ba1cc30228c1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19126
+penny_rank: 8677
+prices:
+  usd: '0.15'
+  usd_foil: '0.47'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '1.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378495
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hero+of+Leina+Tower&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hero+of+Leina+Tower&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hero+of+Leina+Tower
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78967?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hero+of+Leina+Tower&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/51735?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

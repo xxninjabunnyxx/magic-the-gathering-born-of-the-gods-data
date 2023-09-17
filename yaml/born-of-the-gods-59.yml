@@ -1,0 +1,117 @@
+---
+object: card
+id: 86acd1cc-5238-4734-a324-b4cecffc0bab
+oracle_id: 80eca17e-5dfd-4051-9f94-0c8aaf3747bf
+multiverse_ids:
+- 378431
+mtgo_id: 51807
+mtgo_foil_id: 51808
+tcgplayer_id: 78652
+cardmarket_id: 265548
+name: Ashiok's Adept
+lang: en
+released_at: '2014-02-07'
+uri: https://api.scryfall.com/cards/86acd1cc-5238-4734-a324-b4cecffc0bab
+scryfall_uri: https://scryfall.com/card/bng/59/ashioks-adept?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/6/86acd1cc-5238-4734-a324-b4cecffc0bab.jpg?1593091857
+  normal: https://cards.scryfall.io/normal/front/8/6/86acd1cc-5238-4734-a324-b4cecffc0bab.jpg?1593091857
+  large: https://cards.scryfall.io/large/front/8/6/86acd1cc-5238-4734-a324-b4cecffc0bab.jpg?1593091857
+  png: https://cards.scryfall.io/png/front/8/6/86acd1cc-5238-4734-a324-b4cecffc0bab.png?1593091857
+  art_crop: https://cards.scryfall.io/art_crop/front/8/6/86acd1cc-5238-4734-a324-b4cecffc0bab.jpg?1593091857
+  border_crop: https://cards.scryfall.io/border_crop/front/8/6/86acd1cc-5238-4734-a324-b4cecffc0bab.jpg?1593091857
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Human Wizard
+oracle_text: Heroic — Whenever you cast a spell that targets Ashiok's Adept, each
+  opponent discards a card.
+power: '1'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Heroic
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 50a80fe4-a757-408f-ad23-52c5cc5f45cc
+set: bng
+set_name: Born of the Gods
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/50a80fe4-a757-408f-ad23-52c5cc5f45cc
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abng&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bng?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/86acd1cc-5238-4734-a324-b4cecffc0bab/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A80eca17e-5dfd-4051-9f94-0c8aaf3747bf&unique=prints
+collector_number: '59'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Every nightmare is a caged bird that yearns to be set free."
+  —Ashiok, Nightmare Weaver
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Karla Ortiz
+artist_ids:
+- 286a7773-06e5-465c-8a2a-76dfcb4ad110
+illustration_id: c63e1df3-e2fa-40f7-9920-231af06dbedf
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19703
+penny_rank: 11513
+prices:
+  usd: '0.08'
+  usd_foil: '0.39'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.29'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378431
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ashiok%27s+Adept&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ashiok%27s+Adept&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ashiok%27s+Adept
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78652?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ashiok%27s+Adept&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/51807?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
